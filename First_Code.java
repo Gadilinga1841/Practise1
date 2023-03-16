@@ -8,6 +8,7 @@ class Student{
 		this.sname=sname;
 System.out.println("linarju mangaraju");
 System.out.println("bangaram");
+System.out.println("trisha");
 	}
 
 	
