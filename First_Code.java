@@ -9,6 +9,8 @@ class Student{
 System.out.println("linarju mangaraju");
 System.out.println("bangaram");
 System.out.println("trisha");
+System.out.println("nayana tara");
+System.out.println("anushka");
 	}
 
 	
