@@ -7,6 +7,7 @@ class Student{
 		this.sid=sid;
 		this.sname=sname;
 System.out.println("linarju mangaraju");
+System.out.println("bangaram");
 	}
 
 	
